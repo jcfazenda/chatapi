@@ -4,6 +4,9 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <OutputType>Exe</OutputType>
     <UserSecretsId>081f52cf-c0da-4304-9f6c-398dddc82388</UserSecretsId>
+
+    <BaseOutputPath>bin</BaseOutputPath>
+    <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
   <ItemGroup>
