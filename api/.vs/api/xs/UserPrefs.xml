@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{9B2CB332-1CAA-49CB-99EF-85AADAFE00D9}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{9B2CB332-1CAA-49CB-99EF-85AADAFE00D9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="api" Name="api">
       <Items>
@@ -7,42 +7,31 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.rabbit PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/jbarbozo/Downloads/Nakatom/chat/api/api/Controllers/Generics/GenericsController.cs" relfile="api/Controllers/Generics/GenericsController.cs" line="448" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <DisabledProjects>
     <String>../rabbit/cliente/cliente.csproj</String>
   </DisabledProjects>
-  <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.Workbench ActiveDocument="api/Controllers/Message/BotController.cs">
     <Files>
-      <File FileName="api/Controllers/Message/BotController.cs" Line="60" Column="50" />
-      <File FileName="api/Domain/Views/Input/Message/BotInput.cs" Line="16" Column="28" />
+      <File FileName="api/Controllers/Message/BotController.cs" Line="39" Column="10" />
+      <File FileName="api/Domain/Views/Input/Message/BotInput.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="api" expanded="True">
-            <Node name="api" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="Message" expanded="True" />
-              </Node>
-              <Node name="Domain" expanded="True">
-                <Node name="Views" expanded="True">
-                  <Node name="Input" expanded="True">
-                    <Node name="Message" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
+            <Node name="api" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.rabbit PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jbarbozo/Downloads/chatgpt/chatapi/api/api/Controllers/Generics/GenericsController.cs" relfile="api/Controllers/Generics/GenericsController.cs" line="448" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
